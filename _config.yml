@@ -16,19 +16,19 @@ links:
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
   - Name: Rice $1
-    URL: #
+    URL: https://balissu.github.io/#
     Text_Color: '#ffffff'
     Color: '#3b5998'
     Icon-Class: fas fa-link
 
   - Name: Noodle $2
-    URL: #
+    URL: https://balissu.github.io/#
     Text_Color: '#ffffff'
     Color: '#DD2A7B'
     Icon-Class: fas fa-bath
 
   - Name: Vape $3
-    URL: #
+    URL: https://balissu.github.io/#
     Text_Color: '#ffffff'
     Color: '#000000'
     Icon-Class: fas fa-grav
